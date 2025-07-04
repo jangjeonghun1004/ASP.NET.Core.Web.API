@@ -1,5 +1,6 @@
 ASP.NET Core Web API with Swashbuckle and JWT Authentication
 ============================================================
+
 	1. Swashbuckle.AspNetCore 패키지 설치한다.
 	```bash
 	dotnet add package Swashbuckle.AspNetCore
